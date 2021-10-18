@@ -4,10 +4,14 @@ You can use the [editor on GitHub](https://github.com/CRangel99/CRangel99.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Ejercicio | Warm Up | GIF
+Ejercicio | Sets | GIF
 ------------ | -------------| ------------|
-Barbell Bench Press | 1 x 12 | ![CALE](https://i.imgur.com/YfyE197.gif)
-Content in the first column | Content in the second column | 
+Barbell Bench Press | 3 x 6-12 | ![CALE](https://i.imgur.com/YfyE197.gif)
+Pull Ups | 3 x fallo | 
+Back Squat | 3 x 6-12 | 
+Lying Leg Curl | 3 x 6-12 | 
+Staind Dumbell Shoulder Press | 3 x 6-12 | 
+Floor Crunch | 3 x 20 | 
 
 ### Markdown
 
