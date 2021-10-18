@@ -6,10 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Test GIF](https://i.imgur.com/YfyE197.gif)
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Ejercicio | Warm Up | GIF
+------------ | -------------| ------------|
+Barbell Bench Press | 1 x 12 | ![CALE](https://i.imgur.com/YfyE197.gif)
+Content in the first column | Content in the second column | 
 
 ### Markdown
 
