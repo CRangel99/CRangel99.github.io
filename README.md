@@ -6,38 +6,38 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Lunes
 
-Ejercicio | Sets | Warm Up | GIF
+Ejercicio | Warm Up | Sets | GIF
 ------------ | -------------| ------------| ------------|
-Barbell Bench Press |  | 3 x 6-12 |
-Pull Ups |  | 3 x fallo |
-Back Squat |  | 3 x 6-12 |
-Lying Leg Curl |  | 3 x 6-12 |
-Staind Dumbell Shoulder Press |  | 3 x 6-12 |
-Floor Crunch |  | 3 x 20 |
+Barbell Bench Press | 1 x 12 | 3 x 6-12 |
+Pull Ups | 1 x 12 | 3 x fallo |
+Back Squat | 1 x 12 | 3 x 6-12 |
+Lying Leg Curl | - | 3 x 6-12 |
+Staind Dumbell Shoulder Press | - | 3 x 6-12 |
+Floor Crunch | - | 3 x 20 |
 
 ### Miercoles
 
-Ejercicio | Sets | GIF
+Ejercicio | Warm Up | Sets | GIF
 ------------ | -------------| ------------|
-Incline Dumbbell Bench Press | 3 x 6-12 |
-Barbell Deadlift | 3 x 6-12 |
-Weighted Dip | 3 x 6-12 |
-Barbell Curl | 3 x 6-12 |
-Barbell Romanian Deadlift | 3 x 6-12 |
-Standing Calf Raise | 3 x 20 |
-Lying Leg Lift | 3 x 20 |
+Incline Dumbbell Bench Press | 1 x 12 | 3 x 6-12 |
+Barbell Deadlift | 1 x 12 | 3 x 6-12 |
+Weighted Dip | 1 x 12 | 3 x 6-12 |
+Barbell Curl | 1 x 12 | 3 x 6-12 |
+Barbell Romanian Deadlift | 1 x 12 | 3 x 6-12 |
+Standing Calf Raise | 1 x 12 | 3 x 20 |
+Lying Leg Lift | - | 3 x 20 |
 
 ### Viernes
 
-Ejercicio | Sets | GIF
+Ejercicio | Warm Up | Sets | GIF
 ------------ | -------------| ------------|
-Dumbbell Bench Press | 3 x 6-12 |
-Bent-over Barbell Row | 3 x 6-12 |
-Standing Barbell Row | 3 x 6-12 |
-Front Squat | 3 x 6-12 |
-Dumbbell Lunge | 3 x 6-12 |
-Seated Calf Raise | 3 x 6-12 |
-Bicycle Crunch | 3 x 20 |
+Dumbbell Bench Press | 1 x 12 | 3 x 6-12 |
+Bent-over Barbell Row | 1 x 12 | 3 x 6-12 |
+Standing Barbell Row | 1 x 12 | 3 x 6-12 |
+Front Squat | 1 x 12 | 3 x 6-12 |
+Dumbbell Lunge | - | 3 x 6-12 |
+Seated Calf Raise | 1 x 12 | 3 x 6-12 |
+Bicycle Crunch | - | 3 x 20 |
 
 ### Markdown
 
