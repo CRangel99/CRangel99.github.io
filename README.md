@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Ejercicio | Warm Up | Sets | GIF
 ------------ | -------------| ------------| ------------|
-Barbell Bench Press | 1 x 12 | 3 x 6-12 | ![benchPress](https://imgur.com/hRE7Xyz)
+Barbell Bench Press | 1 x 12 | 3 x 6-12 | ![benchPress]()
 Pull Ups | 1 x 12 | 3 x fallo |
 Back Squat | 1 x 12 | 3 x 6-12 |
 Lying Leg Curl | - | 3 x 6-12 |
@@ -62,8 +62,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="hRE7Xyz"><a href="//imgur.com/hRE7Xyz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### Jekyll Themes
 
