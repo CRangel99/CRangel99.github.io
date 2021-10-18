@@ -18,7 +18,7 @@ Floor Crunch | - | 3 x 20 |
 ### Miercoles
 
 Ejercicio | Warm Up | Sets | GIF
------------- | -------------| ------------|
+------------ | -------------| ------------| ------------|
 Incline Dumbbell Bench Press | 1 x 12 | 3 x 6-12 |
 Barbell Deadlift | 1 x 12 | 3 x 6-12 |
 Weighted Dip | 1 x 12 | 3 x 6-12 |
@@ -30,7 +30,7 @@ Lying Leg Lift | - | 3 x 20 |
 ### Viernes
 
 Ejercicio | Warm Up | Sets | GIF
------------- | -------------| ------------|
+------------ | -------------| ------------| ------------|
 Dumbbell Bench Press | 1 x 12 | 3 x 6-12 |
 Bent-over Barbell Row | 1 x 12 | 3 x 6-12 |
 Standing Barbell Row | 1 x 12 | 3 x 6-12 |
