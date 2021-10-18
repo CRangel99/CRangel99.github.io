@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/CRangel99/CRangel99.github
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Lunes
+
 Ejercicio | Sets | GIF
 ------------ | -------------| ------------|
 Barbell Bench Press | 3 x 6-12 |
@@ -15,6 +16,7 @@ Staind Dumbell Shoulder Press | 3 x 6-12 |
 Floor Crunch | 3 x 20 |
 
 ### Miercoles
+
 Ejercicio | Sets | GIF
 ------------ | -------------| ------------|
 Incline Dumbbell Bench Press | 3 x 6-12 |
@@ -26,6 +28,7 @@ Standing Calf Raise | 3 x 20 |
 Lying Leg Lift | 3 x 20 |
 
 ### Viernes
+
 Ejercicio | Sets | GIF
 ------------ | -------------| ------------|
 Dumbbell Bench Press | 3 x 6-12 |
