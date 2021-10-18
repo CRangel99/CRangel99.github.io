@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Ejercicio | Warm Up | Sets | GIF
 ------------ | -------------| ------------| ------------|
-Barbell Bench Press | 1 x 12 | 3 x 6-12 | ![Video](https://user-images.githubusercontent.com/18605033/137675122-e479315f-a07f-42b2-8e2e-d9ad476d51fa.mp4)
+Barbell Bench Press | 1 x 12 | 3 x 6-12 | ![benchPress](https://imgur.com/hRE7Xyz)
 Pull Ups | 1 x 12 | 3 x fallo |
 Back Squat | 1 x 12 | 3 x 6-12 |
 Lying Leg Curl | - | 3 x 6-12 |
