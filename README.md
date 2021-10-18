@@ -63,6 +63,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="hRE7Xyz"><a href="//imgur.com/hRE7Xyz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CRangel99/CRangel99.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
