@@ -6,14 +6,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Lunes
 
-Ejercicio | Sets | GIF
------------- | -------------| ------------|
-Barbell Bench Press | 3 x 6-12 |
-Pull Ups | 3 x fallo |
-Back Squat | 3 x 6-12 |
-Lying Leg Curl | 3 x 6-12 |
-Staind Dumbell Shoulder Press | 3 x 6-12 |
-Floor Crunch | 3 x 20 |
+Ejercicio | Sets | Warm Up | GIF
+------------ | -------------| ------------| ------------|
+Barbell Bench Press |  | 3 x 6-12 |
+Pull Ups |  | 3 x fallo |
+Back Squat |  | 3 x 6-12 |
+Lying Leg Curl |  | 3 x 6-12 |
+Staind Dumbell Shoulder Press |  | 3 x 6-12 |
+Floor Crunch |  | 3 x 20 |
 
 ### Miercoles
 
