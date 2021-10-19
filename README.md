@@ -24,7 +24,7 @@ Incline Dumbbell Bench Press | 1 x 12 | 3 x 6-12 | ![inclineDBP](https://www.str
 Barbell Deadlift | 1 x 12 | 3 x 6-12 | ![barbellDeadlift](https://media2.giphy.com/media/2mLudFb8CoqhKp7n9Q/giphy.gif)
 Weighted Dip | 1 x 12 | 3 x 6-12 | ![weightedDip](https://www.strengthlog.com/wp-content/uploads/2020/02/Dips.gif)
 Barbell Curl | 1 x 12 | 3 x 6-12 | ![barbellCurl](https://www.gymvisual.com/img/p/4/7/6/2/4762.gif)
-Barbell Romanian Deadlift | 1 x 12 | 3 x 6-12 | ![barbellRDeadlift](https://s9.gifyu.com/images/How_to_Perform_Romanian_Deadlift__Hamstring_Leg_Exercise.gif)
+Barbell Romanian Deadlift | 1 x 12 | 3 x 6-12 | ![barbellRDeadlift](https://thumbs.gfycat.com/DisfiguredScentedFoal-max-1mb.gif)
 Standing Calf Raise | 1 x 12 | 3 x 20 | ![standingCalfRaise](https://www.strengthlog.com/wp-content/uploads/2020/03/calf-raise-standing.gif)
 Lying Leg Lift | - | 3 x 20 | ![lLegLift](https://thumbs.gfycat.com/AnySorrowfulCob-size_restricted.gif)
 
