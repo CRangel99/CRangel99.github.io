@@ -1,9 +1,12 @@
 ## Starting strong
 
-Main Goal: Build Muscle               Training Level: Beginner
-Program Duration: 8 Weeks             Days Per Week: 3 Days
-Time Per Workout: 30-45 Mins          Equipment: Barbell, Bodyweight, Dumbbells, Machines
-Author: Brad Borlan
+Main Goal: Build Muscle
+Training Level: Beginner
+Program Duration: 8 Weeks
+Days Per Week: 3 Days
+Time Per Workout: 30-45 Mins
+Equipment: Barbell, Bodyweight, Dumbbells, Machines
+*Author: Brad Borlan*
 
 ### Lunes
 
