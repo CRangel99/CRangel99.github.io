@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Starting strong
 
-You can use the [editor on GitHub](https://github.com/CRangel99/CRangel99.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Main Goal: Build Muscle               Training Level: Beginner
+Program Duration: 8 Weeks             Days Per Week: 3 Days
+Time Per Workout: 30-45 Mins          Equipment: Barbell, Bodyweight, Dumbbells, Machines
+Author: Brad Borlan
 
 ### Lunes
 
