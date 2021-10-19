@@ -20,25 +20,25 @@ Floor Crunch | - | 3 x 20 | ![floorCrunch](https://www.gymvisual.com/img/p/1/3/1
 
 Ejercicio | Warm Up | Sets | GIF
 ------------ | -------------| ------------| ------------|
-Incline Dumbbell Bench Press | 1 x 12 | 3 x 6-12 | ![inclineDBP](https://i.gifer.com/MH2W.gif)
-Barbell Deadlift | 1 x 12 | 3 x 6-12 | ![barbellDeadlift](https://i.gifer.com/MH2W.gif)
-Weighted Dip | 1 x 12 | 3 x 6-12 | ![weightedDip](https://i.gifer.com/MH2W.gif)
-Barbell Curl | 1 x 12 | 3 x 6-12 | ![barbellCurl](https://i.gifer.com/MH2W.gif)
-Barbell Romanian Deadlift | 1 x 12 | 3 x 6-12 | ![barbellRDeadlift](https://i.gifer.com/MH2W.gif)
-Standing Calf Raise | 1 x 12 | 3 x 20 | ![standingCalfRaise](https://i.gifer.com/MH2W.gif)
-Lying Leg Lift | - | 3 x 20 | ![lLegLift](https://i.gifer.com/MH2W.gif)
+Incline Dumbbell Bench Press | 1 x 12 | 3 x 6-12 | ![inclineDBP](https://www.strengthlog.com/wp-content/uploads/2020/03/Dumbbell-Incline-Press.gif)
+Barbell Deadlift | 1 x 12 | 3 x 6-12 | ![barbellDeadlift](https://media2.giphy.com/media/2mLudFb8CoqhKp7n9Q/giphy.gif)
+Weighted Dip | 1 x 12 | 3 x 6-12 | ![weightedDip](https://www.strengthlog.com/wp-content/uploads/2020/02/Dips.gif)
+Barbell Curl | 1 x 12 | 3 x 6-12 | ![barbellCurl](https://www.gymvisual.com/img/p/4/7/6/2/4762.gif)
+Barbell Romanian Deadlift | 1 x 12 | 3 x 6-12 | ![barbellRDeadlift](https://s9.gifyu.com/images/How_to_Perform_Romanian_Deadlift__Hamstring_Leg_Exercise.gif)
+Standing Calf Raise | 1 x 12 | 3 x 20 | ![standingCalfRaise](https://www.strengthlog.com/wp-content/uploads/2020/03/calf-raise-standing.gif)
+Lying Leg Lift | - | 3 x 20 | ![lLegLift](https://thumbs.gfycat.com/AnySorrowfulCob-size_restricted.gif)
 
 ### Viernes
 
 Ejercicio | Warm Up | Sets | GIF
 ------------ | -------------| ------------| ------------|
-Dumbbell Bench Press | 1 x 12 | 3 x 6-12 | ![dumbellBP](https://i.gifer.com/MH2W.gif)
-Bent-over Barbell Row | 1 x 12 | 3 x 6-12 | ![beentoverBarbellRow](https://i.gifer.com/MH2W.gif)
-Standing Barbell Row | 1 x 12 | 3 x 6-12 | ![sBarbellRow](https://i.gifer.com/MH2W.gif)
-Front Squat | 1 x 12 | 3 x 6-12 | ![frontSquat](https://i.gifer.com/MH2W.gif)
-Dumbbell Lunge | - | 3 x 6-12 | ![dumbellLunge](https://i.gifer.com/MH2W.gif)
-Seated Calf Raise | 1 x 12 | 3 x 6-12 | ![seatedCalfRaise](https://i.gifer.com/MH2W.gif)
-Bicycle Crunch | - | 3 x 20 | ![bycicleCrunch](https://i.gifer.com/MH2W.gif)
+Dumbbell Bench Press | 1 x 12 | 3 x 6-12 | ![dumbellBP](https://images.squarespace-cdn.com/content/v1/54f9e84de4b0d13f30bba4cb/1529094171695-VRXQ1Q6COQK0YYSVH3NO/320.gif)
+Bent-over Barbell Row | 1 x 12 | 3 x 6-12 | ![beentoverBarbellRow](https://i.gifer.com/1f71.gif)
+Standing Barbell Row | 1 x 12 | 3 x 6-12 | ![sBarbellRow](https://thumbs.gfycat.com/CheerfulLightCranefly-max-1mb.gif)
+Front Squat | 1 x 12 | 3 x 6-12 | ![frontSquat](https://i.pinimg.com/originals/ec/ab/24/ecab244b600ff61b0ec85f1a90d069be.gif)
+Dumbbell Lunge | - | 3 x 6-12 | ![dumbellLunge](https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Dumbbell-Lunge.gif)
+Seated Calf Raise | 1 x 12 | 3 x 6-12 | ![seatedCalfRaise](https://www.gymvisual.com/img/p/1/4/5/0/6/14506.gif)
+Bicycle Crunch | - | 3 x 20 | ![bycicleCrunch](https://media2.giphy.com/media/TMNCtgJGJnV8k/giphy.gif)
 
 ### Markdown
 
