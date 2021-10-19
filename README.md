@@ -9,10 +9,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Ejercicio | Warm Up | Sets | GIF
 ------------ | -------------| ------------| ------------|
 Barbell Bench Press | 1 x 12 | 3 x 6-12 | ![benchPress](https://i.gifer.com/MH2W.gif)
+------------ | -------------| ------------| ------------|
 Pull Ups | 1 x 12 | 3 x fallo | ![pullUp](https://c.tenor.com/Lq4uADWXzpUAAAAd/pull-ups-working-out.gif)
+------------ | -------------| ------------| ------------|
 Back Squat | 1 x 12 | 3 x 6-12 | ![backSquat](https://www.gymguider.com/wp-content/uploads/2018/12/Classic-squat.gif)
+------------ | -------------| ------------| ------------|
 Lying Leg Curl | - | 3 x 6-12 | ![lLegCurl](https://weighteasyloss.com/wp-content/uploads/2019/06/Lying-Leg-Curl.gif)
+------------ | -------------| ------------| ------------|
 Standing Dumbell Shoulder Press | - | 3 x 6-12 | ![sDumbellSPress](https://thumbs.gfycat.com/FluffyCarefulBaboon-size_restricted.gif)
+------------ | -------------| ------------| ------------|
 Floor Crunch | - | 3 x 20 | ![floorCrunch](https://www.gymvisual.com/img/p/1/3/1/0/3/13103.gif)
 
 ### Miercoles
