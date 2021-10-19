@@ -19,25 +19,25 @@ Floor Crunch | - | 3 x 20 | ![floorCrunch](https://www.gymvisual.com/img/p/1/3/1
 
 Ejercicio | Warm Up | Sets | GIF
 ------------ | -------------| ------------| ------------|
-Incline Dumbbell Bench Press | 1 x 12 | 3 x 6-12 |
-Barbell Deadlift | 1 x 12 | 3 x 6-12 |
-Weighted Dip | 1 x 12 | 3 x 6-12 |
-Barbell Curl | 1 x 12 | 3 x 6-12 |
-Barbell Romanian Deadlift | 1 x 12 | 3 x 6-12 |
-Standing Calf Raise | 1 x 12 | 3 x 20 |
-Lying Leg Lift | - | 3 x 20 |
+Incline Dumbbell Bench Press | 1 x 12 | 3 x 6-12 | ![inclineDBP](https://i.gifer.com/MH2W.gif)
+Barbell Deadlift | 1 x 12 | 3 x 6-12 | ![barbellDeadlift](https://i.gifer.com/MH2W.gif)
+Weighted Dip | 1 x 12 | 3 x 6-12 | ![weightedDip](https://i.gifer.com/MH2W.gif)
+Barbell Curl | 1 x 12 | 3 x 6-12 | ![barbellCurl](https://i.gifer.com/MH2W.gif)
+Barbell Romanian Deadlift | 1 x 12 | 3 x 6-12 | ![barbellRDeadlift](https://i.gifer.com/MH2W.gif)
+Standing Calf Raise | 1 x 12 | 3 x 20 | ![standingCalfRaise](https://i.gifer.com/MH2W.gif)
+Lying Leg Lift | - | 3 x 20 | ![lLegLift](https://i.gifer.com/MH2W.gif)
 
 ### Viernes
 
 Ejercicio | Warm Up | Sets | GIF
 ------------ | -------------| ------------| ------------|
-Dumbbell Bench Press | 1 x 12 | 3 x 6-12 |
-Bent-over Barbell Row | 1 x 12 | 3 x 6-12 |
-Standing Barbell Row | 1 x 12 | 3 x 6-12 |
-Front Squat | 1 x 12 | 3 x 6-12 |
-Dumbbell Lunge | - | 3 x 6-12 |
-Seated Calf Raise | 1 x 12 | 3 x 6-12 |
-Bicycle Crunch | - | 3 x 20 |
+Dumbbell Bench Press | 1 x 12 | 3 x 6-12 | ![dumbellBP](https://i.gifer.com/MH2W.gif)
+Bent-over Barbell Row | 1 x 12 | 3 x 6-12 | ![beentoverBarbellRow](https://i.gifer.com/MH2W.gif)
+Standing Barbell Row | 1 x 12 | 3 x 6-12 | ![sBarbellRow](https://i.gifer.com/MH2W.gif)
+Front Squat | 1 x 12 | 3 x 6-12 | ![frontSquat](https://i.gifer.com/MH2W.gif)
+Dumbbell Lunge | - | 3 x 6-12 | ![dumbellLunge](https://i.gifer.com/MH2W.gif)
+Seated Calf Raise | 1 x 12 | 3 x 6-12 | ![seatedCalfRaise](https://i.gifer.com/MH2W.gif)
+Bicycle Crunch | - | 3 x 20 | ![bycicleCrunch](https://i.gifer.com/MH2W.gif)
 
 ### Markdown
 
