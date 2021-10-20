@@ -26,6 +26,9 @@ Lying Leg Curl | - | 3 x 6-12 | ![lLegCurl](https://weighteasyloss.com/wp-conten
 Standing Dumbell Shoulder Press | - | 3 x 6-12 | ![sDumbellSPress](https://thumbs.gfycat.com/FluffyCarefulBaboon-size_restricted.gif) <img src="https://www.gymvisual.com/img/p/1/3/1/0/3/13103.gif" alt="Girl in a jacket" width="400" height="400">
 Floor Crunch | - | 3 x 20 | ![floorCrunch](https://www.gymvisual.com/img/p/1/3/1/0/3/13103.gif) <img src="https://www.gymvisual.com/img/p/1/3/1/0/3/13103.gif" alt="Girl in a jacket" width="400" height="400">
 
+
+<img src="https://www.gymvisual.com/img/p/1/3/1/0/3/13103.gif" alt="Girl in a jacket" width="400" height="400">
+
 ### Miercoles
 
 Ejercicio | Warm Up | Sets | GIF
