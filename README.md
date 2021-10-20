@@ -46,7 +46,7 @@ Ejercicio | Warm Up | Sets | GIF
 Dumbbell Bench Press | 1 x 12 | 3 x 6-12 | <img src="https://images.squarespace-cdn.com/content/v1/54f9e84de4b0d13f30bba4cb/1529094171695-VRXQ1Q6COQK0YYSVH3NO/320.gif" alt="dumbellBP" width="400" height="400">
 Bent-over Barbell Row | 1 x 12 | 3 x 6-12 | <img src="https://i.gifer.com/1f71.gif" alt="beentoverBarbellRow" width="400" height="400">
 Standing Barbell Row | 1 x 12 | 3 x 6-12 | <img src="https://thumbs.gfycat.com/CheerfulLightCranefly-max-1mb.gif" alt="sBarbellRow" width="400" height="400">
-Front Squat | 1 x 12 | 3 x 6-12 | !<img src="https://i.pinimg.com/originals/ec/ab/24/ecab244b600ff61b0ec85f1a90d069be.gif" alt="frontSquat" width="400" height="400">
+Front Squat | 1 x 12 | 3 x 6-12 | <img src="https://i.pinimg.com/originals/ec/ab/24/ecab244b600ff61b0ec85f1a90d069be.gif" alt="frontSquat" width="400" height="400">
 Dumbbell Lunge | - | 3 x 6-12 | <img src="https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/03/Dumbbell-Lunge.gif" alt="dumbellLunge" width="400" height="400">
 Seated Calf Raise | 1 x 12 | 3 x 6-12 | <img src="https://www.gymvisual.com/img/p/1/4/5/0/6/14506.gif" alt="seatedCalfRaise" width="400" height="400">
 Bicycle Crunch | - | 3 x 20 | <img src="https://media2.giphy.com/media/TMNCtgJGJnV8k/giphy.gif" alt="bycicleCrunch" width="400" height="400">
