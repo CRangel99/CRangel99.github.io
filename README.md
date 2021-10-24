@@ -1,19 +1,31 @@
-## Starting strong
+## r/Fitness Basic Beginner Routine
 
-Main Goal: Build Muscle
+This routine is for anyone who is a complete beginner to strength training using barbells.
 
-Training Level: Beginner
+Follow this routine for a maximum of three months. After that point, your long term progress is better served by moving on to a more comprehensive routine that has more training volume and greater variety of movements, rep ranges, and intensity.
 
-Program Duration: 8 Weeks
+The notation here is Sets x Reps – three sets of five reps. The “+” at the end denotes that the last set is AMRAP – As Many Reps As Possible.
 
-Days Per Week: 3 Days
+### Rutina A
 
-Time Per Workout: 30-45 Mins
+Ejercicio | Warm Up | Sets | GIF
+------------ | -------------| ------------| ------------|
+Bent-over Barbell Row | 1 x 5 | 3 x 5+ | <img src="https://i.gifer.com/1f71.gif" alt="beentoverBarbellRow" width="400" height="400">
+Barbell Bench Press | 1 x 5 | 3 x 5+ | <img src="https://i.gifer.com/MH2W.gif" alt="benchPress" width="400" height="400">
+Back Squat | 1 x 5 | 3 x 5+| <img src="https://www.gymguider.com/wp-content/uploads/2018/12/Classic-squat.gif" alt="backSquat" width="400" height="400">
 
-Equipment: Barbell, Bodyweight, Dumbbells, Machines
 
-_Author: Brad Borlan_
+### Rutina B
 
+Ejercicio | Warm Up | Sets | GIF
+------------ | -------------| ------------| ------------|
+Chinups | 1 x 5 | 3 x 5+ | <img src="https://i.worldofgym.com/img/files/pull-your-own-weight-with-14-pullup-and-chinup-variations-1.gif" alt="chinups" width="400" height="400">
+Barbell Overhead Press | 1 x 5 | 3 x 5+ | <img src="https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/how-to-do-the-military-press.gif" alt="benchPress" width="400" height="400">
+Barbell Deadlift | 1 x 5 | 3 x 5+ | <img src="https://media2.giphy.com/media/2mLudFb8CoqhKp7n9Q/giphy.gif" alt="barbellDeadlift" width="400" height="400">
+
+
+
+##Brad Borley Starting Strong
 
 ### Lunes
 
